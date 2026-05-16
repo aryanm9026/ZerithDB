@@ -153,7 +153,7 @@ export default function BlogPage() {
             <Link href="/pricing" className="hover:text-gray-900 transition-colors">
               Pricing
             </Link>
-            <a href="#" className="hover:text-gray-900 transition-colors">
+            <a href="https://discord.gg/MhvuDvzWfF" className="hover:text-gray-900 transition-colors">
               Discord
             </a>
           </div>
